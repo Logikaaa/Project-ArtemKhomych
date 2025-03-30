@@ -1,1 +1,2 @@
-# Project-ArtemKhomych
+# Quiz-final
+Фінальна версія Квізу (фронтенд)
