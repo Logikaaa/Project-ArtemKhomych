@@ -90,7 +90,7 @@ for (let i = 0; i < answer_buttons.length; i += 1) {
             answer_buttons[i].style.background = '#00FF00'
             anime({
                 targets: answer_buttons[i],
-                background: '#307173',
+                background: '#21d0c4',
                 duration: 500,
                 delay: 100,
                 easing: 'linear'
@@ -99,7 +99,7 @@ for (let i = 0; i < answer_buttons.length; i += 1) {
             answer_buttons[i].style.background = '#150c57'
             anime({
                 targets: answer_buttons[i],
-                background: '#6f1619',
+                background: '#21d0c4',
                 duration: 500,
                 delay: 100,
                 easing: 'linear'
